@@ -21,10 +21,10 @@ Vue - Dentro da tag style podemos escrever o CSS ou importar um arquivo externo.
 - EXEMPLOS: [CSS no componente de botão](https://github.com/dorfo1/trabvue/blob/master/trab-vue/src/components/MyButton/MyButton.vue)
 
 ## Como criar rotas?
-React: Rotas são criadas no arquivo router, usando a lib react-router
+React: Rotas são criadas no arquivo router e renderizadas na base da aplicação, usando a lib react-router
 - EXEMPLOS: [Arquivo de rotas](https://github.com/dorfo1/trabvue/blob/master/trab-react/src/routes.jsx)
 
-Vue: Rotas são criadas no arquivo index, usando a lib vue-router
+Vue: Rotas são criadas no arquivo index de rotas e renderizadas na base da aplicação, usando a lib vue-router
 - EXEMPLOS: [Arquivo de rotas](https://github.com/dorfo1/trabvue/blob/master/trab-vue/src/router/index.js)
 
 ## Como controlar as interações dos componentes?
