@@ -35,10 +35,10 @@ Vue: Usando callbacks, passando via props.
 - EXEMPLOS :[Callback passado para componente do Botão.](https://github.com/dorfo1/trabvue/blob/master/trab-vue/src/views/Home.vue)
 
 ## Como passar dados de uma API para o componentes e/ou página?
-React: Usando axios para chamadas web, atualizando o estado após o término da chamada.No caso dos componentes, passando via props, demonstrado na página de api.
+React: Usando axios para chamadas web, atualizando o estado após o término da chamada.No caso dos componentes, passando via props como é demonstrado na página de api.
 - EXEMPLOS: [API](https://github.com/dorfo1/trabvue/blob/master/trab-react/src/pages/ApiPage/ApiPage.jsx)
 
-Vue: Usando axios para chamadas web, atualizando o estado após o término da chamada.No caso dos componentes, passando via props, demonstrado na página de api.
+Vue: Usando axios para chamadas web, atualizando o estado após o término da chamada.No caso dos componentes, passando via props como é  demonstrado na página de api.
 - EXEMPLOS: [API](https://github.com/dorfo1/trabvue/blob/master/trab-vue/src/views/Api.vue) 
 
 ## Como criar uma página?
