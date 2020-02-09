@@ -21,6 +21,7 @@ Vue - Dentro da tag style podemos escrever o CSS ou importar um arquivo externo.
 - EXEMPLOS: [CSS no componente de botão](https://github.com/dorfo1/trabvue/blob/master/trab-vue/src/components/MyButton/MyButton.vue)
 
 ## Como criar rotas?
+
 React: Rotas são criadas no arquivo router e renderizadas na base da aplicação, usando a lib react-router
 - EXEMPLOS: [Arquivo de rotas](https://github.com/dorfo1/trabvue/blob/master/trab-react/src/routes.jsx)
 
@@ -28,13 +29,15 @@ Vue: Rotas são criadas no arquivo index de rotas e renderizadas na base da apli
 - EXEMPLOS: [Arquivo de rotas](https://github.com/dorfo1/trabvue/blob/master/trab-vue/src/router/index.js)
 
 ## Como controlar as interações dos componentes?
-React: Usando callbacks, passando via props.
+
+React: Usando callbacks via props.
 - EXEMPLOS: [Callback passado para componente do Botão.](https://github.com/dorfo1/trabvue/blob/master/trab-react/src/pages/MyPage/MyPage.jsx)
 
-Vue: Usando callbacks, passando via props.
+Vue: Usando callbacks via props.
 - EXEMPLOS :[Callback passado para componente do Botão.](https://github.com/dorfo1/trabvue/blob/master/trab-vue/src/views/Home.vue)
 
 ## Como passar dados de uma API para o componentes e/ou página?
+
 React: Usando axios para chamadas web, atualizando o estado após o término da chamada.No caso dos componentes, passando via props como é demonstrado na página de api.
 - EXEMPLOS: [API](https://github.com/dorfo1/trabvue/blob/master/trab-react/src/pages/ApiPage/ApiPage.jsx)
 
