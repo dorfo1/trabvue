@@ -18,7 +18,7 @@ React: Importando o arquivo css e atribuindo como na propriedade className, já 
 - EXEMPLOS: [CSS no componente de botão](https://github.com/dorfo1/trabvue/blob/master/trab-react/src/components/MyButton/MyButton.jsx)
 
 Vue - Dentro da tag style podemos escrever o CSS ou importar um arquivo externo.
-EXEMPLOS: [CSS no componente de botão](https://github.com/dorfo1/trabvue/blob/master/trab-vue/src/components/MyButton/MyButton.vue)
+- EXEMPLOS: [CSS no componente de botão](https://github.com/dorfo1/trabvue/blob/master/trab-vue/src/components/MyButton/MyButton.vue)
 
 ## Como criar rotas?
 React: Rotas são criadas no arquivo router, usando a lib react-router
@@ -49,6 +49,6 @@ Vue: Criar um componente normal, mas cadastra-lo como uma page na parte de route
 
 ## Qual a diferença do scaffolding gerado pelo os geradores de projeto de cada um deles?
 
-- O scaffolding do vuejs oferece uma maior variedade na criação,dando possibilidade de adiçao de algumas bibliotecas que são usadas no desenvolvimento
+O scaffolding do vuejs oferece uma maior variedade na criação,dando possibilidade de adiçao de algumas bibliotecas que são usadas no desenvolvimento
 como vue-router e vuex(controle de estado), no caso do react não existe esta opção.
 
